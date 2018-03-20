@@ -13,7 +13,10 @@ platforms/android/app/build/
 platforms/android/app/app.iml
 platforms/android/CordovaLib/build/
 wzFrontEnd/node_modules/
+CordovaLib/CordovaLib.iml
 .git/
+.gradle/
+.idea/
 .npmignore
 package-lock.json
 hooks/
@@ -23,3 +26,6 @@ app/build/
 app/app.iml
 android.iml
 build/
+local.properties
+wzApp.iml
+
