@@ -5,6 +5,7 @@ import Tool from '@/components/tool/Tool'
 import Message from '@/components/message/Message'
 import My from '@/components/my/My'
 import Root from '@/components/Root'
+import VuxDemoShow from '@/components/Tool/VuxDemoShow'
 
 Vue.use(Router)
 
@@ -32,6 +33,10 @@ export default new Router({
           path: 'my',
           component: My
         },
+        {
+          path: 'vux-demo-show',
+          component: VuxDemoShow
+        }
       ]
     }
   ]

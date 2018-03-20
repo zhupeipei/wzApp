@@ -1,0 +1,12 @@
+[
+  {
+    "name": "vux演示",
+    "icon": "fa fa-tag fa-lg",
+    "router": "vux-demo-show"
+  },
+  {
+    "name": "远程",
+    "icon": "fa fa-tag fa-lg",
+    "router": "remote"
+  }
+]

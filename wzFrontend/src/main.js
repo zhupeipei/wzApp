@@ -6,6 +6,8 @@ import VueRouter from 'vue-router'
 import App from './App'
 import router from './router';
 
+import 'font-awesome/css/font-awesome.min.css'
+
 // Vue.use(VueRouter)
 
 // const routes = [{

@@ -12,7 +12,7 @@ platforms/android/build.xml
 platforms/android/app/build/
 platforms/android/app/app.iml
 platforms/android/CordovaLib/build/
-wzFrontEnd/node_modules/
+wzFrontend/node_modules/
 CordovaLib/CordovaLib.iml
 .git/
 .gradle/
@@ -21,7 +21,6 @@ CordovaLib/CordovaLib.iml
 package-lock.json
 hooks/
 www/
-wzFrontEnd/node_modules/
 app/build/
 app/app.iml
 android.iml
